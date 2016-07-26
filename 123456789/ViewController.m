@@ -21,6 +21,7 @@
     btn.frame = CGRectMake(100, 100, 100, 100);
     [self.view addSubview:btn];
     
+    NSLog(@"hello");
     // Do any additional setup after loading the view from its nib.
 }
 
