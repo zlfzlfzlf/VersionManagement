@@ -25,6 +25,11 @@
     
     //你好，你是
     NSLog(@"hello");
+    
+    
+    
+    
+    //在中国
     // Do any additional setup after loading the view from its nib.
 }
 
