@@ -20,7 +20,10 @@
     btn.backgroundColor = [UIColor redColor];
     btn.frame = CGRectMake(100, 100, 100, 100);
     [self.view addSubview:btn];
+
     
+    
+    //你好，你是
     NSLog(@"hello");
     // Do any additional setup after loading the view from its nib.
 }
